@@ -1,0 +1,8 @@
+1.点击file，选择settings
+2.进入ersioncontrol点击，会看到Directory  VCS git 链接。
+3.点击+ 号，创建 目录映射。
+4. 点击github 进入github账号设置。输入完账号密码后，点击test,会出现账号配置成功。
+5。可以本地建仓库 也可以在github上把仓库建立好，同步下来
+6。点击修改后的文件或者右键 git-add 先把文件放在暂存区 类似于 git add
+7.点击commitfile 类似于 git commit -m ""
+8.点击commit and push 等待推送成功。
